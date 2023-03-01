@@ -1,5 +1,5 @@
-### bahartu.github.io
+# bahartu.github.io
 
 ## Information
 
-# this is a paragraph
+### this is a paragraph
